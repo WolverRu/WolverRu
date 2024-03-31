@@ -1,3 +1,6 @@
+[![Ruslan's GitHub Banner](./assets/GitHubHeader.png)]
+
+
 ## &#x1f4c8; GitHub Stats
 
 <br>
