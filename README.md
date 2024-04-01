@@ -1,4 +1,11 @@
-[![Ruslan's GitHub Banner](./assets/GitHubHeader.png)]
+[![Ruslan's GitHub Banner](./assets/GitHubHeader.png)](https://github.com/WolverRu)
+
+[![Visits Badge](https://badges.pufler.dev/visits/WolverRu/WolverRu)](https://github.com/WolverRu)
+
+
+Hey there 👋
+
+<br>
 
 
 ## &#x1f4c8; GitHub Stats
